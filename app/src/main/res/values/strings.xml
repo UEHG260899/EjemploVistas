@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EjemploVistas</string>
+    <string-array name="lista_dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string name="texture_view">Texture View</string>
+    <string name="titulo_tv">Texture View</string>
+    <string name="ejmpIzq">Izquierda</string>
+    <string name="ejempDer">Derecha</string>
+    <string name="btn_surface">SurfaceView</string>
+    <string name="ejemplo_surface">Surface View</string>
+    <string name="texto_cambiar_color">Cambiar el color del fondo</string>
+</resources>
