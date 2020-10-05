@@ -37,7 +37,6 @@ public class texture_view extends AppCompatActivity implements TextureView.Surfa
         player = new MediaPlayer();
         try {
             fileDescriptor = getAssets().openFd("video_prueba.mp4");
-            System.out.println(fileDescriptor);
         }catch (IOException e){
             e.printStackTrace();
         }
